@@ -1,0 +1,20 @@
+ABOUT
+XSPF-PLAYLIST-COPY is a windows based mini utility that allows the user to select a particular xspf file and a destination directory, this utility copies all media from the xspf playlist to the destination directory specified by the user. This utility may prove useful in cases when the user wants to port all media (on his device) from a specific playlist to some other device (computer, mobile or other devices).
+
+INSTALLATION
+Run the setup.exe file present in the Installer directory.
+
+USAGE
+Step1: Select the xspf playlist file.
+Step2: Select the destination directory.
+Step3. Click on "COPY FILES" button to copy all media files from that playlist to the specified directory.
+ 
+AUTHOR
+Robin Rizvi
+Email: mail@robinrizvi.info
+Website: http://robinrizvi.info/
+Blog: http://blog.robinrizvi.info
+
+LICENSE
+Licensed under the MIT license.
+http://www.opensource.org/licenses/MIT
